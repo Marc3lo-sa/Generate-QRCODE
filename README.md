@@ -1,4 +1,4 @@
-Projeto simples, para gerar qrcode em png. utiliza apenas: import tkinter as tk
+Projeto simples, para gerar QRCODE em no formato PNG. utiliza apenas: import tkinter as tk
 from tkinter import messagebox, filedialog
 import pyqrcode
 
